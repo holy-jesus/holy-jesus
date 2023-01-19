@@ -20,4 +20,4 @@
 
 ### [discord-secret-santa](https://github.com/Dest0re/discord-secret-santa)
 
-Тайный санта в дискорде с играми из стима. Делал совместно с [Dest0re](https://github.com/Dest0re/discord-secret-santa)
+Тайный санта в дискорде с играми из стима. Делал совместно с [Dest0re](https://github.com/Dest0re)
