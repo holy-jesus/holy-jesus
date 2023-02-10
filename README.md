@@ -6,13 +6,17 @@
 
 ## Мои проекты:
 
-### [Holy-bot](https://holy-bot.ru/)
+### Holy-bot
 
 Твич бот, который умеет распознавать музыку. Один из первых и мой самый любимый проект.
 
-### [Мой сайт](https://holy-coder.ru)
+Ссылка на сайт: https://holy-bot.ru/
+
+### [Мой сайт](https://github.com/holy-jesus/holy_coder)
 
 Мини-сайт для мини-проектиков.
+
+Ссылка на сайт: https://holy-coder.ru/
 
 ### [ДимпломЧИК ЧИРИК](https://github.com/holy-jesus/papapi)
 
