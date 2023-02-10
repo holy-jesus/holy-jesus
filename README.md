@@ -12,7 +12,7 @@
 
 Ссылка на сайт: https://holy-bot.ru/
 
-### [Мой сайт](https://github.com/holy-jesus/holy_coder)
+### [Holy-coder](https://github.com/holy-jesus/holy_coder)
 
 Мини-сайт для мини-проектиков.
 
